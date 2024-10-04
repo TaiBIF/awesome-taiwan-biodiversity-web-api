@@ -4,7 +4,7 @@ Public Listing (awesome) Taiwan Biodiversity Web API resources
 
 ## Content Curator
 
-## TaiCOL (Catalogue of Life in Taiwan)
+### TaiCOL (Catalogue of Life in Taiwan)
 https://taicol.tw/zh-hant/api
 
 - 學名 API - name: https://api.taicol.tw/v2/name
@@ -15,7 +15,7 @@ https://taicol.tw/zh-hant/api
 - 物種有效名版本紀錄 API - taxonVersion: https://api.taicol.tw/v2/taxonVersion
 
 
-## TaiEOL (Taiwan Encyclopedia of Life)
+### TaiEOL (Taiwan Encyclopedia of Life)
 https://data.taieol.tw/
 
 - 物種多媒體 API: 
@@ -33,13 +33,13 @@ https://portal.taibif.tw/zh-hant/taibif-api
 - 資料集 Datset API: https://portal.taibif.tw/api/v2/dataset/
 - 發布單位 Publisher API: https://portal.taibif.tw/api/v2/publisher/
 
-## TBIA (Taiwan Biodiversity Information Alliance)
+### TBIA (Taiwan Biodiversity Information Alliance)
 https://tbiadata.tw/zh-hant/api/doc
 
 - 出現紀錄 API: https://tbiadata.tw/api/v1/occurrence
 
 
-## TBN (Taiwan Biodiversity Network)
+### TBN (Taiwan Biodiversity Network)
 https://www.tbn.org.tw/data/api
 
 - Map API
