@@ -1,6 +1,7 @@
 # awesome-taiwan-biodiversity-web-api
 Public Listing (awesome) Taiwan Biodiversity Web API resources
 
+`按照英文縮寫排序`
 
 ## Content Curator
 
